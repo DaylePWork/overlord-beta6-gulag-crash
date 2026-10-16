@@ -1,0 +1,7 @@
+Overlord emergency crash evidence
+Exception: 0xC0000005
+Address: 0x000000014057C947
+Process/thread: 13668/25168
+RIP/RSP/RBP: 0x14057C947/0x119B6FB30/0x119B6FB50
+Parameter count: 2
+Parameter 0/1/2: 0x0/0x250/0x0
